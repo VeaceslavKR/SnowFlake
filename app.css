@@ -1,0 +1,11 @@
+body {
+  background: url(back.jpg);
+  /*background-color: #042548;*/
+}
+
+#scene {
+  /*border: 1px dotted red; */
+  width: 1480px;
+  height: 700px;
+  position: relative;
+}
